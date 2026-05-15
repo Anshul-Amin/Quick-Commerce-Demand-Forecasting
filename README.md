@@ -1,1 +1,1 @@
-# Quick-Commerce-Demand-Forecasting
+# Quick-Commerce-Data Science Project
