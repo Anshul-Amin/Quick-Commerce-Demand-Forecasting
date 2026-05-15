@@ -231,44 +231,4 @@ A consolidated Matplotlib dashboard summarizing all key business metrics at a gl
 5. **Blinkit and Zepto have clear high-potential cities** for expansion based on performance filters.
 6. **Customer ratings are uniformly distributed** (1–5) across platforms, suggesting platform satisfaction is broadly similar — operational differentiation (speed, availability) matters more.
 
----
 
-## 🚀 How to Run
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/yourusername/quick-commerce-analysis.git
-cd quick-commerce-analysis
-```
-
-### 2. Install dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn plotly scikit-learn jupyter
-```
-
-### 3. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### 4. Run the notebooks in order
-
-```
-1. Quick_Commerce_EDA.ipynb          → Data cleaning & preprocessing
-2. QuickCommerce_DataAnalysis.ipynb  → Business analysis & visualizations
-```
-
-> **Note:** Update the file paths in the notebooks to point to your local data directory before running.
-
----
-
-## 📁 Screenshots
-
-All chart screenshots used in this README are stored in the `/screenshots` folder and were generated directly from the analysis notebooks.
-
----
-
-*Built with Python | Data Analysis | Quick Commerce | India*
