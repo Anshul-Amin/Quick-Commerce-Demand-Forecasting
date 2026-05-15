@@ -14,7 +14,6 @@
 - [Key Business Questions Answered](#-key-business-questions-answered)
 - [KPI Dashboard](#-kpi-dashboard)
 - [Key Insights](#-key-insights)
-- [How to Run](#-how-to-run)
 
 ---
 
